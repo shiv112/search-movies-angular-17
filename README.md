@@ -9,6 +9,8 @@ See **Installing** for steps to make it work in your local environment.
 
 ✔ Github Pages: https://jancobh.github.io/Angular-Movies/
 
+Git pod - https://shiv112-searchmoviesang-3db11qnjyt2.ws-us110.gitpod.io/
+
 ## 📋 Prerequisites
 
 * <a href="https://nodejs.org/es/" target="_blank">Node JS</a> - You need it to use npm
